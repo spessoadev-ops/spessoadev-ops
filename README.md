@@ -1,8 +1,8 @@
 # Olá, eu sou Samuel Pessoa
 
-Estou construindo minha carreira em **Análise de Dados**, com foco em transformar dados em informações úteis para decisões de negócio.
+Tenho experiência profissional em **negócios, tecnologia e projetos** e atualmente estou direcionando minha atuação para **Análise de Dados**, conectando visão de negócio, raciocínio analítico e ferramentas de dados para apoiar decisões.
 
-Atualmente estudo e desenvolvo projetos utilizando **SQL Server, Power BI, Python e Excel**, buscando evoluir principalmente em análise exploratória, modelagem de dados, construção de indicadores e interpretação de resultados.
+Hoje desenvolvo projetos com **SQL Server, Power BI, Python e Excel**, com foco em análise exploratória, modelagem de dados, construção de indicadores, visualização e interpretação de resultados.
 
 ## Tecnologias
 
@@ -38,9 +38,12 @@ SQL para análise de dados • Power BI • Python • Estatística aplicada •
 
 ## Objetivo profissional
 
-Busco minha primeira oportunidade em **Análise de Dados**, onde possa aplicar raciocínio analítico, SQL e visualização de dados em problemas reais de negócio.
+Quero ampliar minha atuação em **Análise de Dados**, aproveitando minha experiência prévia com negócios, tecnologia e projetos para transformar dados em análises úteis, apoiar decisões e gerar clareza sobre problemas reais de negócio.
+
+Busco oportunidades em que eu possa aprofundar minha experiência técnica em dados sem perder a visão de negócio e de operação que já faz parte da minha trajetória profissional.
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/samuelpessoa/ 
+LinkedIn: https://www.linkedin.com/in/samuelpessoa
+
 E-mail: spessoaadev@gmail.com

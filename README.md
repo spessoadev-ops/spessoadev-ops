@@ -14,7 +14,7 @@ Hoje desenvolvo projetos com **SQL Server, Power BI, Python e Excel**, com foco 
 
 ## Projeto em destaque
 
-### NexaShop — Sales & Retention Analysis
+### [NexaShop — Sales & Retention Analysis](https://github.com/spessoadev-ops/nexashop-sales-retention-analysis)
 
 Projeto de análise comercial e retenção de clientes de um e-commerce fictício brasileiro.
 

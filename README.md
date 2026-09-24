@@ -42,5 +42,5 @@ Busco minha primeira oportunidade em **Análise de Dados**, onde possa aplicar r
 
 ## Contato
 
-LinkedIn: seu link  
+LinkedIn: https://www.linkedin.com/in/samuelpessoa/ 
 E-mail: spessoaadev@gmail.com
